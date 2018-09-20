@@ -1,0 +1,13 @@
+# Modul2
+Latihan 1
+![alt next](https://github.com/KillBurger/Modul2/blob/master/Screenshot%20(81).png)
+Latihan 2
+![alt next](https://github.com/KillBurger/Modul2/blob/master/Screenshot%20(82).png)
+Latihan 3
+![alt next](https://github.com/KillBurger/Modul2/blob/master/Screenshot%20(83).png)
+Latihan 4
+![alt next](https://github.com/KillBurger/Modul2/blob/master/Screenshot%20(84).png)
+Praktikum 1
+![alt next](https://github.com/KillBurger/Modul2/blob/master/Screenshot%20(85).png)
+Praktikum 2
+![alt next](https://github.com/KillBurger/Modul2/blob/master/Screenshot%20(86).png)
